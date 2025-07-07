@@ -1,8 +1,7 @@
 <h1>Kuulaid</h1>
 
-![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-black?style=for-the-badge&logo=webcomponents&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Learning-ML-blue?style=for-the-badge&logo=python&logoColor=white)
-![Computer Engineering](https://img.shields.io/badge/Student-Computer%20Engineering-orange?style=for-the-badge&logo=graduation-cap&logoColor=white)
+![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-orange?style=for-the-badge&logo=webcomponents&logoColor=white)
+
 
 
 <p>I am a junior computer engineering student and a full-stack developer. I am also learning Machine Learning to further explore how code can learn, adapt, and solve real-world problems particularly in healthcare. </p>
