@@ -1,4 +1,7 @@
-<h1>Kuulaid</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&animation=fadeIn&section=footer&text=Kuulaid&fontAlign=70" alt="banner" width="100%"/>
+
+
+
 
 ![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-orange?style=for-the-badge&logo=webcomponents&logoColor=white)
 
