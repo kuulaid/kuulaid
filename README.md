@@ -2,11 +2,6 @@
 
 
 
-
-![Full Stack Developer](https://img.shields.io/badge/Full%20Stack%20Developer-orange?style=for-the-badge&logo=webcomponents&logoColor=white)
-
-
-
 <p>I am a junior computer engineering student and a full-stack developer. I am also learning Machine Learning to further explore how code can learn, adapt, and solve real-world problems particularly in healthcare. </p>
 
 ---
